@@ -1,3 +1,4 @@
+#  get '/users/:id', to: 'users#show', as: 'user'
 Rails.application.routes.draw do
   root 'posts#index'
 

@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+筋肉の成長を友達とシェアしてモチベを維持。
 
 Things you may want to cover:
 
